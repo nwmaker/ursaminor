@@ -3,7 +3,7 @@
 ## Mouser
 
 | Components | Mouser | Notes |
-| ---------- |:------:| ----- |
+| ---------- |:------ | ----- |
 | Coin Battery Holder | 712-BAT-HLD-001 | x1, SMD |
 | SN74HC273PWR | 595-SN74HC273PWR | x1, D-type FlipFlop, TSSOP-20 |
 | SN74HC86NSR | 595-SN74HC86NSR | x1, Quadruple 2-Input Exclusive-OR Gate, SOP-14 |
