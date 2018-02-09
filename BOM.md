@@ -1,7 +1,5 @@
-# BOM of [Ursa Minor](https://nwmaker.com/ursaminor)
+# BOM of [Ursa Minor](https://nwmaker.com/ursaminor) 
  
-## Mouser
-
 | Components | Mouser | Notes |
 | ---------- |:------ | ----- |
 | Coin Battery Holder | 712-BAT-HLD-001 | x1, SMD |
